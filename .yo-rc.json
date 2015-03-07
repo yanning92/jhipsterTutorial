@@ -1,0 +1,19 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipster",
+    "packageName": "com.yanning.jhipster",
+    "packageFolder": "com/yanning/jhipster",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "8e2f944a9d8eb71edde3d1c943b23c6a19cf7c4a"
+  }
+}
