@@ -1,1 +1,2 @@
- jhipsterTutorial
+README for jhipster
+==========================
